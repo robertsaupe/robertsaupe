@@ -86,7 +86,7 @@ I'm a Linux power user and passionate developer from Germany.
 <br />
 
 <p align="right">
-<a href="https://robertsaupe.de"><img alt="Robert Saupe | Homepage" title="Robert Saupe | Homepage" width="21px" src="https://raw.githubusercontent.com/robertsaupe/robertsaupe/master/assets/material-design-icons/public.svg" /></a>
-<a href="mailto:mail@robertsaupe.de"><img alt="Robert Saupe | Mail" title="Robert Saupe | Mail" width="21px" src="https://raw.githubusercontent.com/robertsaupe/robertsaupe/master/assets/material-design-icons/mail.svg" /></a>
-<a href="https://github.com/robertsaupe"><img alt="Robert Saupe | GitHub" title="Robert Saupe | GitHub" width="21px" src="https://camo.githubusercontent.com/5f5cadad3e06f6dd96c64d4025e219856ae6f923799bc8ea4e628013de25724a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667" /></a>
+<a href="https://robertsaupe.de"><img alt="Robert Saupe | Homepage" title="Robert Saupe | Homepage" width="21px" src="https://raw.githubusercontent.com/robertsaupe/robertsaupe/master/assets/material-design-icons/public_custom.svg" /></a>
+<a href="mailto:mail@robertsaupe.de"><img alt="Robert Saupe | Mail" title="Robert Saupe | Mail" width="21px" src="https://raw.githubusercontent.com/robertsaupe/robertsaupe/master/assets/material-design-icons/mail_custom.svg" /></a>
+<a href="https://github.com/robertsaupe"><img alt="Robert Saupe | GitHub" title="Robert Saupe | GitHub" width="21px" src="https://raw.githubusercontent.com/robertsaupe/robertsaupe/master/assets/github_custom.svg" /></a>
 </p>
