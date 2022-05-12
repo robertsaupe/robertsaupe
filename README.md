@@ -65,7 +65,7 @@ I'm a Linux power user and passionate developer from Germany.
 
 ### Statistics
 
-| <a href="https://github.com/robertsaupe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=robertsaupe&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Robert Saupe's GitHub Stats" title="Robert Saupe's GitHub Stats" /></a> | <a href="https://github.com/robertsaupe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertsaupe&layout=compact&theme=gotham&hide_border=true" alt="Most Used Languages" title="Most Used Languages" /></a> |
+| <a href="https://github.com/robertsaupe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=robertsaupe&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Robert Saupe's GitHub Stats" title="Robert Saupe's GitHub Stats" /></a> | <a href="https://github.com/robertsaupe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertsaupe&layout=compact&theme=gotham&hide_border=true&langs_count=10" alt="Most Used Languages" title="Most Used Languages" /></a> |
 | ------------- | ------------- |
 
 ### Top Repositories
