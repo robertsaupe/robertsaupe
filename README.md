@@ -62,7 +62,6 @@ I'm a Linux power user and passionate developer from Germany.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS" title="SASS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" title="C#"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png" alt="Database" title="Database"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" title="SQL"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" title="MySQL"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" alt="PWA" title="PWA"></code>
@@ -70,9 +69,11 @@ I'm a Linux power user and passionate developer from Germany.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="Markdown"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" alt="XML" title="XML"></code>
 
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png" alt="Database" title="Database"></code> -->
+
 ### Statistics
 
-| <a href="https://github.com/robertsaupe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=robertsaupe&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Robert Saupe's GitHub Stats" title="Robert Saupe's GitHub Stats" /></a> | <a href="https://github.com/robertsaupe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertsaupe&layout=compact&theme=gotham&hide_border=true&langs_count=10" alt="Most Used Languages" title="Most Used Languages" /></a> |
+| <a href="https://github.com/robertsaupe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=robertsaupe&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=true" alt="Robert Saupe's GitHub Stats" title="Robert Saupe's GitHub Stats" /></a> | <a href="https://github.com/robertsaupe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertsaupe&layout=compact&theme=gotham&hide_border=true&langs_count=10" alt="Most Used Languages" title="Most Used Languages" /></a> |
 | ------------- | ------------- |
 
 ### Top Repositories
