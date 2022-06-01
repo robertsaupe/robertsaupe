@@ -33,7 +33,7 @@ I'm a Linux power user and passionate developer from Germany.
 ### More about me
 
 - 🔭 I’m currently working on [phpbat as phar](https://github.com/robertsaupe/phpbat/tree/phar)
-- 🌱 I’m currently learning more about PHP (Phar, Composer, Symphony), Node.js, TypeScript and Electron
+- 🌱 I’m currently learning more about PHP (Phar, Composer, Symfony), Node.js, TypeScript and Electron
 - 👯 I’m looking to collaborate on Tutorials, Blogs, Podcasts, YouTube or nice coding projects
 - 🤔 I’m looking for help with improving and test my projects
 - 💬 Ask me about anything
