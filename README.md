@@ -1,4 +1,6 @@
-```
+# Welcome to
+
+```text
 ██████╗  ██████╗ ██████╗ ███████╗██████╗ ████████╗    ███████╗ █████╗ ██╗   ██╗██████╗ ███████╗
 ██╔══██╗██╔═══██╗██╔══██╗██╔════╝██╔══██╗╚══██╔══╝    ██╔════╝██╔══██╗██║   ██║██╔══██╗██╔════╝
 ██████╔╝██║   ██║██████╔╝█████╗  ██████╔╝   ██║       ███████╗███████║██║   ██║██████╔╝█████╗  
@@ -7,8 +9,6 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝       ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚══════╝
                                                                                                
 ```
-
-### Hi there :wave:
 
 ## Nice to see you, I'm [Robert Saupe!](https://robertsaupe.de)
 
@@ -48,6 +48,7 @@ I'm a Linux power user and passionate developer from Germany.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" title="PHP"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/837015?s=200&v=4" alt="Composer" title="Composer"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" alt="PHP" title="Symfony"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" title="Javascript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" title="Typescript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" title="jQuery"></code>
