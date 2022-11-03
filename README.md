@@ -33,7 +33,7 @@ I'm a Linux power user and passionate developer from Germany.
 
 ### More about me
 
-- 🔭 I’m currently working on [phpbat as phar](https://github.com/robertsaupe/phpbat/tree/phar)
+- 🔭 I’m currently working on [phpbat](https://github.com/robertsaupe/phpbat) and [AVRIM](https://github.com/avrim)
 - 🌱 I’m currently learning more about Node.js, TypeScript and Electron
 - 👯 I’m looking to collaborate on Tutorials, Blogs, Podcasts, YouTube or nice coding projects
 - 🤔 I’m looking for help with improving and test my projects
@@ -77,7 +77,7 @@ I'm a Linux power user and passionate developer from Germany.
 | <a href="https://github.com/robertsaupe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=robertsaupe&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=true" alt="Robert Saupe's GitHub Stats" title="Robert Saupe's GitHub Stats" /></a> | <a href="https://github.com/robertsaupe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertsaupe&layout=compact&theme=gotham&hide_border=true&langs_count=10" alt="Most Used Languages" title="Most Used Languages" /></a> |
 | ------------- | ------------- |
 
-### Top Repositories
+### Top Projects
 
 | <a href="https://github.com/robertsaupe/phpbat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robertsaupe&repo=phpbat&theme=gotham&hide_border=true" /></a> |
 | ------------- |
@@ -88,7 +88,7 @@ I'm a Linux power user and passionate developer from Germany.
 | ------------- | ------------- |
 | <a href="https://github.com/robertsaupe/php-systeminfo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robertsaupe&repo=php-systeminfo&theme=gotham&hide_border=true" /></a> | <a href="https://github.com/robertsaupe/php-phar-selfupdate"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robertsaupe&repo=php-phar-selfupdate&theme=gotham&hide_border=true" /></a> |
 
-### Templates
+### Top Templates
 
 | <a href="https://github.com/robertsaupe/php-console-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robertsaupe&repo=php-console-app&theme=gotham&hide_border=true" /></a> | <a href="https://github.com/robertsaupe/docker-compose-lamp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robertsaupe&repo=docker-compose-lamp&theme=gotham&hide_border=true" /></a> |
 | ------------- | ------------- |
